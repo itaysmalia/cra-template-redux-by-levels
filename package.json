@@ -1,6 +1,6 @@
 {
   "name": "cra-template-redux-by-levels",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create React App template for redux-by-levels",
   "main": "index.js",
   "keywords": [
