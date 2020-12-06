@@ -1,0 +1,11 @@
+.button {
+  padding: 0.5rem 1rem;
+  border: none;
+  font-size: 1.1em;
+  text-transform: uppercase;
+  cursor: pointer;
+  outline-color: olive;
+}
+.button:hover {
+  background-color: #cccccc;
+}
