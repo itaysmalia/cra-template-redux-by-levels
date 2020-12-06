@@ -1,5 +1,5 @@
 import React from "react";
-import { useRBLValue } from "redux-by-leves";
+import { useRBLValue } from "redux-by-levels";
 
 const Both = () => {
   const { name, count } = useRBLValue();

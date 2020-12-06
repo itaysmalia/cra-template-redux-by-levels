@@ -1,5 +1,5 @@
 import React from "react";
-import {useRBLState} from 'redux-by-levels'
+import { useRBLState } from "redux-by-levels";
 
 const Name = () => {
   const [name, setName] = useRBLState();
