@@ -1,0 +1,11 @@
+{
+  "package": {
+    "redux": "^4.0.5",
+    "react-redux": "^7.2.2",
+    "redux-by-levels": "^2.0.8"
+  },
+  "eslintConfig": {
+    "extends": ["react-app", "plugin:jsx-a11y/recommended", "plugin:react-redux/recommended"],
+    "plugins": ["jsx-a11y", "react-redux"]
+  }
+}

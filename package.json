@@ -1,0 +1,22 @@
+{
+  "name": "cra-template-redux-by-levels",
+  "version": "1.0.0",
+  "description": "Create React App template for redux-by-levels",
+  "main": "index.js",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "redux",
+    "redux-by-levels"
+  ],
+  "engines": {
+    "node": ">=10"
+  },
+  "author": "itaysmalia <itays.malia@gmail.com>",
+  "license": "ISC",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
